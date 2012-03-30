@@ -1,4 +1,4 @@
-From Miek Giebn's [original blog post](http://www.miek.nl/s/d7c7a15ac3/ "Blockbook.cls; A LaTeX Class"):
+From Miek Gieben's [original blog post](http://www.miek.nl/s/d7c7a15ac3/ "Blockbook.cls; A LaTeX Class"):
 
 ### LaTeX Style ###
 A few years ago I've created a LaTeX class which I particularly liked, but looking back on it, it was getting a bit old. So I recreated they style with the excellent `memoir` class for LaTeX.
